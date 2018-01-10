@@ -1,0 +1,2 @@
+local script ='c0fb38fad441a8c9e628f2d70fde91ef51bb98379bdee732f43641433c14157e521c7416565e3f2d13103c725e392b0811722e'
+return cipher.load(script, script:len())
